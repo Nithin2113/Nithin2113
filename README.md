@@ -270,7 +270,11 @@ Building strength, discipline, and mental toughness one rep at a time
 
 <div align="center">
 
-![snake gif](https://github.com/Nithin2113/Nithin2113/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin2113/Nithin2113/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nithin2113/Nithin2113/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nithin2113/Nithin2113/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -290,6 +294,6 @@ Building strength, discipline, and mental toughness one rep at a time
 
 **🔄 Back to debugging...**
 
-![Visitor Count](https://profile-counter.glitch.me/Nithin2113/count.svg)
+<img src="https://komarev.com/ghpvc/?username=Nithin2113&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
