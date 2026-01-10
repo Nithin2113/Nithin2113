@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I’m Nithin</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Java+%26+Full+Stack+Developer;Exploring+AI+%26+Machine+Learning;Learning+by+Building+Every+Day&center=true&width=600&height=38">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Java+%26+Full-Stack+Developer;Exploring+AI+%26+Machine+Learning;Building+Systems+with+Intent&center=true&width=640&height=38">
 </p>
 
 <p align="center">
@@ -11,27 +11,28 @@
 ---
 
 ## About
-I’m a Computer Science student focused on building a strong foundation in **Java**, modern **full-stack web development**, and exploring **AI & Machine Learning** with an emphasis on understanding fundamentals rather than treating tools as black boxes.
+I’m a Computer Science student focused on building **strong fundamentals** and **modern software systems**.  
+My primary interests lie in **Java**, **full-stack web development**, and exploring **AI & Machine Learning** with an emphasis on understanding how things work under the hood.
 
-I value clarity, consistency, and long-term growth over shortcuts.
+I believe in learning by building, iterating, and improving consistently.
 
 ---
 
-## Core Skills
+## Core Technical Skills
 
-### Languages
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp&perline=8" />
 </p>
 
-### Frontend
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&perline=8" />
 </p>
 
 ### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=6" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate&perline=8" />
 </p>
 
 ### Databases
@@ -39,23 +40,24 @@ I value clarity, consistency, and long-term growth over shortcuts.
   <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6" />
 </p>
 
-### AI / ML (Exploring)
+### AI / ML & Data (Exploring)
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,sklearn&perline=8" />
 </p>
 
-### Tools & Systems
+### Tools, Systems & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions,vscode,idea,postman,figma&perline=9" />
 </p>
 
 ---
 
 ## Current Focus
-- Deepening Java & OOP understanding  
-- Building clean, maintainable full-stack projects  
-- Learning real-world GitHub & open-source workflows  
-- Exploring AI/ML through practical experimentation  
+- Deepening **Java**, **OOP**, and backend fundamentals  
+- Building scalable **full-stack applications**  
+- Learning clean **API design & system structure**  
+- Exploring **machine learning concepts** through hands-on experiments  
+- Developing strong **GitHub & open-source workflows**  
 
 ---
 
@@ -82,5 +84,5 @@ I value clarity, consistency, and long-term growth over shortcuts.
 ---
 
 <p align="center">
-  <sub>Focused. Consistent. Building with intent.</sub>
+  <sub>Focused on fundamentals. Building with intent. Improving daily.</sub>
 </p>
