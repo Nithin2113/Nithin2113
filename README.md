@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I’m Nithin</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Java+%26+Full-Stack+Developer;Exploring+AI+%26+Machine+Learning;Building+Systems+with+Intent&center=true&width=640&height=38">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full-Stack+Developer;Building+Modern+Web+Applications;Learning+by+Building+Every+Day&center=true&width=640&height=38">
 </p>
 
 <p align="center">
@@ -11,10 +11,11 @@
 ---
 
 ## About
-I’m a Computer Science student focused on building **strong fundamentals** and **modern software systems**.  
-My primary interests lie in **Java**, **full-stack web development**, and exploring **AI & Machine Learning** with an emphasis on understanding how things work under the hood.
+I’m a Computer Science student focused on becoming a **strong full-stack developer** with solid fundamentals and practical system knowledge.
 
-I believe in learning by building, iterating, and improving consistently.
+I enjoy building modern web applications end-to-end — from clean user interfaces to reliable backend services — while continuously improving code quality, structure, and workflows.
+
+My approach is simple: learn deeply, build consistently, and improve with every iteration.
 
 ---
 
@@ -22,48 +23,76 @@ I believe in learning by building, iterating, and improving consistently.
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python&perline=8" />
 </p>
+
+---
 
 ### Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&perline=8" />
 </p>
 
-### Backend & APIs
+- Component-based UI development  
+- State management & client-side routing  
+- Responsive and accessible design  
+
+---
+
+### Backend Development & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate&perline=8" />
 </p>
 
-### Databases
+- RESTful API design  
+- Authentication & authorization  
+- MVC & layered architecture  
+
+---
+
+### Databases & Data Handling
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=8" />
 </p>
 
-### AI / ML & Data (Exploring)
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,sklearn&perline=8" />
-</p>
+- Relational & NoSQL databases  
+- Schema design & indexing  
+- Caching & performance basics  
 
-### Tools, Systems & Workflow
+---
+
+### DevOps, Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions,vscode,idea,postman,figma&perline=9" />
 </p>
 
+- Version control & collaboration  
+- Containerization & environment setup  
+- CI/CD fundamentals  
+- API testing & debugging  
+
 ---
 
 ## Current Focus
-- Deepening **Java**, **OOP**, and backend fundamentals  
-- Building scalable **full-stack applications**  
-- Learning clean **API design & system structure**  
-- Exploring **machine learning concepts** through hands-on experiments  
-- Developing strong **GitHub & open-source workflows**  
+- Building scalable full-stack applications  
+- Writing clean, maintainable backend code  
+- Improving frontend architecture and UX  
+- Strengthening database design skills  
+- Following professional GitHub workflows  
 
 ---
 
 ## Coding Mode
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" />
+</p>
+
+---
+
+## GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithin2113&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin2113&layout=compact&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
@@ -76,5 +105,5 @@ I believe in learning by building, iterating, and improving consistently.
 ---
 
 <p align="center">
-  <sub>Focused on fundamentals. Building with intent. Improving daily.</sub>
+  <sub>Focused on fundamentals. Shipping features. Improving daily.</sub>
 </p>
