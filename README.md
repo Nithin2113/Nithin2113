@@ -68,14 +68,6 @@ I believe in learning by building, iterating, and improving consistently.
 
 ---
 
-## GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithin2113&show_icons=true&theme=transparent&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin2113&layout=compact&theme=transparent&hide_border=true" height="160" />
-</p>
-
----
-
 ## Contribution Flow
 <p align="center">
   <img src="https://github.com/Nithin2113/Nithin2113/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
