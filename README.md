@@ -19,7 +19,7 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,rust,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,java,rust,js,ts&perline=8" />
 </p>
 
 ---
