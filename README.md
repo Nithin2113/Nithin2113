@@ -40,7 +40,7 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
 </p>
 
 ---
