@@ -8,11 +8,10 @@
 
 ## About
 - Software Engineering student focused on **backend and full-stack development**
-- Interested in building **scalable, maintainable systems** and real-world applications
-- Experience working with **API-driven architectures** and modern web stacks
-- Comfortable across the stack, from backend logic to frontend integration
-- Co-author of an **IEEE Xplore research publication**, with exposure to technical research and documentation
-- Strong believer in learning deeply, building consistently, and improving iteratively
+- Interested in building **scalable, maintainable software systems**
+- Experience working with **API-driven architectures** and real-world applications
+- Comfortable handling backend logic, databases, and system workflows
+- Strong focus on fundamentals, code quality, and continuous improvement
 
 ---
 
@@ -25,14 +24,7 @@
 
 ---
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=8" />
-</p>
-
----
-
-### Backend
+### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=8" />
 </p>
@@ -54,12 +46,12 @@
 ---
 
 ## Current Focus
-- Strengthening **Data Structures & Algorithms (DSA)** fundamentals
+- Strengthening **Data Structures & Algorithms (DSA)**
 - Building **full-stack applications** with clean architecture
-- Developing **SaaS-style products** with practical, real-world use cases
-- Designing and implementing reliable **backend services & REST APIs**
-- Improving **system design** and **database modeling** skills
-- Contributing to open-source projects and learning in public
+- Developing **SaaS-style products** with real-world use cases
+- Designing reliable **backend services & REST APIs**
+- Improving **system design** and **database modeling**
+- Contributing to open-source and learning in public
 
 ---
 
