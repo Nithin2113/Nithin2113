@@ -9,9 +9,9 @@
 ## About
 - Software Engineering student focused on **backend and full-stack development**
 - Interested in building **scalable, maintainable software systems**
-- Experience working with **API-driven architectures** and real-world applications
-- Comfortable handling backend logic, databases, and system workflows
-- Strong focus on fundamentals, code quality, and continuous improvement
+- Experience with **API-driven architectures** and modern web applications
+- Comfortable working across backend, frontend integration, and databases
+- Strong focus on fundamentals, clean code, and continuous improvement
 
 ---
 
@@ -19,28 +19,35 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,rust,js,ts&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,rust,js,ts" />
+</p>
+
+---
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 ---
 
 ### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
 ---
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 ---
 
 ### Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,postman" />
 </p>
 
 ---
