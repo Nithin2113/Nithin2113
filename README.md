@@ -1,23 +1,22 @@
-<h2 align="center">Nithin T</h2>
+<h2 align="center">Hi, I’m Nithin</h2>
 
 <p align="center">
-Software Engineering Student · Open Source Contributor  
-Backend & Systems Focus · GSoC / Summer of Bitcoin Aspirant
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Open+Source+Contributor;Backend+and+Full-Stack+Developer;Learning+by+Building&center=true&width=640&height=38">
 </p>
 
 ---
 
 ## About
-I’m a Computer Science student focused on building **reliable backend systems** and **production-ready web applications**, with a strong interest in open-source engineering.
-
-I value clean code, solid fundamentals, and understanding how systems behave in real-world conditions.  
-Currently preparing for **Google Summer of Code (GSoC)** and **Summer of Bitcoin (SoB)** through consistent learning and open-source contributions.
-
-I’m also a **co-author of an IEEE Xplore research publication**, with experience in structured research, system design, and technical documentation.
+- Software Engineering student focused on **backend and full-stack development**
+- Interested in building **scalable, maintainable systems** and real-world applications
+- Experience working with **API-driven architectures** and modern web stacks
+- Comfortable across the stack, from backend logic to frontend integration
+- Co-author of an **IEEE Xplore research publication**, with exposure to technical research and documentation
+- Strong believer in learning deeply, building consistently, and improving iteratively
 
 ---
 
-## Core Tech Stack
+## Tech Stack
 
 ### Programming Languages
 <p>
@@ -26,14 +25,14 @@ I’m also a **co-author of an IEEE Xplore research publication**, with experien
 
 ---
 
-### Frontend Development
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=8" />
 </p>
 
 ---
 
-### Backend Development
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=8" />
 </p>
@@ -47,33 +46,23 @@ I’m also a **co-author of an IEEE Xplore research publication**, with experien
 
 ---
 
-### Cloud, Tools & Workflow
+### Cloud & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,postman&perline=8" />
 </p>
 
 ---
 
-## Featured Work
-
-- **Campus AI Assistant**  
-  AI-powered campus support system with a focus on backend APIs and system integration.  
-  _Tech:_ React, Backend APIs  
-  🔗 https://github.com/Nithin2113/campus-ai-assistant
-
-- **Open Source Contributions**  
-  Contributed to real-world open-source projects, focusing on code quality, documentation, and maintainability.
-
----
-
 ## Current Focus
-- Backend engineering & system fundamentals  
-- Open-source contributions aligned with **GSoC / SoB**  
-- Rust, Python, and Java for systems & backend development  
-- Writing clean, maintainable, and well-documented code  
+- Strengthening **Data Structures & Algorithms (DSA)** fundamentals
+- Building **full-stack applications** with clean architecture
+- Developing **SaaS-style products** with practical, real-world use cases
+- Designing and implementing reliable **backend services & REST APIs**
+- Improving **system design** and **database modeling** skills
+- Contributing to open-source projects and learning in public
 
 ---
 
 <p align="center">
-<sub>Focused on fundamentals. Building with intent. Contributing in public.</sub>
+  <sub>Focused on fundamentals. Building with intent. Improving every iteration.</sub>
 </p>
